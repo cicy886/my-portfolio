@@ -2,3 +2,8 @@ img {
   width:300px;
   height:auto;
 }
+.columns {
+  column-count: 2;
+  column-gap: 25px;
+  column-rule: 2px solid pink;
+}
