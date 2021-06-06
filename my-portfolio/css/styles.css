@@ -6,6 +6,7 @@ img {
   column-count: 3;
   column-gap: 25px;
   column-rule: 2px solid pink;
+  float: right;
 }
 .box {
   margin: 12px;
