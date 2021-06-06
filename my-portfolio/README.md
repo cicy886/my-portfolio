@@ -9,4 +9,5 @@ Open the html file or/and the css file with coding applications. You can add con
 https://github.com/cicy886/my-portfolio.git
 ## Lisence
 [MIT](https://opensource.org/licenses/MIT)
-Copyright (c) <2021> <copyright Sisi Vieira>
+
+Copyright (c) 2021 Sisi Vieira
