@@ -6,7 +6,7 @@ This project include one html file, one css file and one md file. The content in
 ## Program Steup instruction
 Open the html file or/and the css file with coding applications. You can add contents in the html file or change the style with the css file.
 ## Github page website
-https://github.com/cicy886/my-portfolio.git
+https://cicy886.github.io/my-portfolio/
 ## Lisence
 [MIT](https://opensource.org/licenses/MIT)
 
