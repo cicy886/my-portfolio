@@ -1,0 +1,23 @@
+img {
+  width:300px;
+  height:auto;
+}
+.columns {
+  column-count: 3;
+  column-gap: 25px;
+  column-rule: 2px solid pink;
+  float: right;
+}
+.box {
+  margin: 12px;
+  padding: 4px;
+  box-sizing:border-box;
+  border-radius: 15px; 
+  border: 3px solid #55C8C1;
+}
+.important{
+  color:salmon
+}
+.headers h4{
+  color:slateblue;
+}
